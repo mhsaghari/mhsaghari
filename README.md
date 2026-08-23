@@ -11,8 +11,8 @@
 - TypeScript
 - Python
 - Golang
-- Nuxt.js
-- Vue.js
+- Nuxt.js / Next.js
+- Vue.js / React.js
 
 **Styling & Tools:**
 - Tailwind CSS
@@ -20,7 +20,7 @@
 - Responsive Design
 
 **Interests:**
-- 🤖 **Automation** – Love automating repetitive tasks and workflows
+- 🤖 **Automation** an Ai Engineering – Love automating repetitive tasks and workflows
 - 🚀 Performance Optimization
 - 📱 Modern Web Practices
 - 🔧 Tooling & Developer Experience
@@ -29,7 +29,7 @@
 
 ## 🚀 What I'm Up To
 
-- Building scalable frontend applications with **Nuxt** and **TypeScript**
+- Building scalable frontend applications with **Nuxt** or **Next** and **TypeScript**
 - Creating sleek, responsive interfaces with **Tailwind CSS**
 - Exploring **automation** scripts with **Python** and **Node.js**
 - Learning and experimenting with new web technologies
